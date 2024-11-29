@@ -1,2 +1,2 @@
 # I4NG---WORKSHOP
-Github repository for the I4NG workshop
+Github repository for [Infra4NextGen](https://infra4nextgen.com/) Workshop
